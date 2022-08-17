@@ -1,0 +1,261 @@
+.btn-login {
+    display: flex !important;
+    justify-content: center;
+}
+
+.btn-enter {
+    width: 100% !important;
+}
+
+.wcon {
+    width: 50% !important;
+}
+
+.cna {
+    display: flex !important;
+    justify-content: end;
+}
+
+.create {
+    margin-right: 15px;
+}
+
+.my-footer {
+    margin-top: 155px;
+}
+
+
+/* friends */
+
+
+.friend-aligned {
+    margin: 0px !important;
+    width: 100% !important;
+    overflow: hidden;
+}
+
+.friend-aligned-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-pro-photo {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.align-ico {
+    display: flex !important;
+    align-items: center;
+}
+
+.m-ico {
+    margin-right: 10px;
+}
+
+
+.main-cont {
+    margin-top: 40px;
+}
+
+@media (max-width:600px) {
+    .navigator-hide-low {
+        display: none;
+    }
+}
+
+
+.wrap-friend {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items-collection {
+    border: none;
+}
+
+.friends-logo-text {
+    position: relative;
+    top: 20px;
+}
+
+.personal-icons {
+    font-size: 15px;
+}
+
+/* news  */
+
+
+.news-logo {
+    padding-bottom: 10px;
+}
+
+.add-news {
+    padding-top: 15px;
+    font-size: 35px;
+}
+
+.pos-news-text {
+    position: relative;
+    left: -50px;
+    display: flex;
+}
+
+.photoblock {
+    position: relative;
+    left: -50px;
+}
+
+.inpbl {
+    margin: 0px auto !important;
+    padding: 0px !important;
+}
+
+.photo-in-block {
+    width: 100%;
+    height: 200px;
+    margin: 1px;
+    padding: 1px;
+}
+
+.photoCOL {
+    margin: 0px;
+    padding: 0px !important;
+}
+
+.spanFortext {
+    background-color: rgba(0, 0, 0, 0.432);
+}
+
+/* profile  */
+
+.l-friend {
+    font-size: 10px !important;
+    margin: 0px !important;
+
+}
+
+figcaption {
+    padding-left: 15px;
+}
+
+.friend-align-ava {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.p-f-list {
+    margin-left: 15px;
+    padding-top: 10px;
+}
+
+.info-prof {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    text-align: center !important;
+}
+
+.m-del {
+    margin-bottom: 0px !important;
+}
+
+.about-me {
+    padding: 15px;
+    margin-top: 8px;
+}
+
+.spandatetime {
+    font-size: 10px;
+}
+
+
+.align-row-ava-friend {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100%;
+}
+
+
+.whr {
+    position: relative;
+    width: 150%;
+    left: -75px;
+}
+
+
+/* messages  */
+
+.num-mess {
+    padding-right: 3px;
+    padding-left: 3px;
+    border-radius: 2px;
+}
+
+.span-name-mess {
+    font-weight: bolder;
+}
+
+.new-message-dialog {
+    font-weight: bolder;
+}
+
+.w-s-s {
+    height: 643px;
+}
+
+.mes-pos-me {
+    position: relative !important;
+    left: 0 !important;
+    top: 10px !important;
+}
+
+.me-text-mess {
+    position: relative !important;
+    left: -55px !important;
+}
+
+.time-message-n {
+    font-weight: lighter;
+    font-size: 0.8rem;
+}
+
+.input-mess-dial {
+    position: relative;
+    bottom: -190px;
+}
+
+.l-b-b {
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.r-b-b {
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+/* events  */
+
+
+.bg-card-title-text {
+    background-color: rgba(0, 0, 0, 0.24);
+    width: 100%;
+    height: 50%;
+}
+
+.event-ico-time {
+    font-size: 13px;
+}
+
+
+.card-link-details {
+    position: relative;
+    top: -10px;
+}
